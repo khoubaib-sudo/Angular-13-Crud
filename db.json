@@ -1,0 +1,50 @@
+{
+  "productList": [
+    {
+      "productName": "Harry Potter and the Philosopher's",
+      "category": "Movies",
+      "quality": "Brand New",
+      "price": 50,
+      "comment": "Excellent movie !",
+      "date": "2022-05-18T22:00:00.000Z",
+      "id": 1
+      },
+      {
+      "productName": "StoneHarry Potter and the Chamber of Secrets",
+      "category": "Books",
+      "quality": "Second Hand",
+      "price": 300,
+      "comment": "good one!!",
+      "date": "2022-05-15T22:00:00.000Z",
+      "id": 2
+      },
+      {
+      "productName": "Harry Potter and the Prisonner of Azkaban",
+      "category": "Movies",
+      "quality": "Brand New",
+      "price": 100,
+      "comment": "you need to watch this!!",
+      "date": "2022-05-23T22:00:00.000Z",
+      "id": 3
+      },
+      {
+      "productName": "Harry Potter and the Goblet of Fire J. K. Rowling",
+      "category": "Books",
+      "quality": "Brand New",
+      "price": 52,
+      "comment": "you need to read this one !",
+      "date": "2022-05-23T22:00:00.000Z",
+      "id": 4
+      }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
