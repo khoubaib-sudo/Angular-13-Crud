@@ -8,8 +8,8 @@
       "comment": "Excellent movie !",
       "date": "2022-05-18T22:00:00.000Z",
       "id": 1
-      },
-      {
+    },
+    {
       "productName": "Harry Potter and the Chamber of Secrets",
       "category": "Books",
       "quality": "Second Hand",
@@ -17,8 +17,8 @@
       "comment": "good one!!",
       "date": "2022-05-15T22:00:00.000Z",
       "id": 2
-      },
-      {
+    },
+    {
       "productName": "Harry Potter and the Prisonner of Azkaban",
       "category": "Movies",
       "quality": "Brand New",
@@ -26,8 +26,8 @@
       "comment": "you need to watch this!!",
       "date": "2022-05-23T22:00:00.000Z",
       "id": 3
-      },
-      {
+    },
+    {
       "productName": "Harry Potter and the Goblet of Fire J. K. Rowling",
       "category": "Books",
       "quality": "Brand New",
@@ -35,7 +35,25 @@
       "comment": "you need to read this one !",
       "date": "2022-05-23T22:00:00.000Z",
       "id": 4
-      }
+    },
+    {
+      "productName": "metal gear solid 5",
+      "category": "VideoGames",
+      "quality": "Brand New",
+      "price": 13,
+      "comment": "best game ever",
+      "date": "2022-05-11T22:00:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "genshin imapct ",
+      "category": "VideoGames",
+      "quality": "Brand New",
+      "price": 15,
+      "comment": "a goood game :) ",
+      "date": "2022-05-11T22:00:00.000Z",
+      "id": 6
+    }
   ],
   "comments": [
     {
